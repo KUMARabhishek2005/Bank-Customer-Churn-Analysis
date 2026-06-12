@@ -28,4 +28,4 @@ This project analyzes customer churn behavior using SQL and Power BI to identify
 
 ## Dashboard
 
-![Bank Customer Churn Dashboard](images/dashboard.png)
+![Bank Customer Churn Dashboard](Bank_churn_dashboard.png)
